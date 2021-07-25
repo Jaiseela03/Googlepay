@@ -1,4 +1,4 @@
-oik
+#!/bin/bash
 jvbie
 oiwej'noweku
 
